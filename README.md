@@ -1,7 +1,7 @@
 # zika-vaccination
 Fortran 90 code for the work entitled "Optimal control of vaccination in a vector-borne reaction-diffusion model for Zika virus".
 
-This code does not receive maintenance, use at own risk.
+This code does not receive maintenance and is available here only for reference, use at own risk.
 
 The code solves the optimal control PDE problem using:
 - Finite element method;
