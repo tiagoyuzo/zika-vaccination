@@ -11,9 +11,9 @@ The code solves the optimal control PDE problem using:
 - Conjugate gradient with diagonal preconditioner for linear system solutions with sparse storage;
 - BOBYQA package (Powell, 2009) for optimization in the non linear regression of parameters.
 
-Mesh files are necessary for a particular finite element mesh.
-
 The code can also provide Latin Hypercube Sampling solutions used to perform Partial Rank Correlation Coefficient analysis.
+
+Mesh files are necessary for a particular finite element mesh. A version of the Matlab code used in this project is available at mesh_generator.m, which requires the files rndata2.dat and rncities.dat.
 
 References:
 - http://repositorio.unicamp.br/jspui/handle/REPOSIP/334344?mode=full (PhD. thesis)
